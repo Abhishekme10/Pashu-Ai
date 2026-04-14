@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Deployed Project link
 https://pashu-ai1.netlify.app/
@@ -101,3 +102,6 @@ Build the application for production:
 ```bash
 npm run build
 ```
+=======
+# Pashu-Ai
+>>>>>>> 107a20405daeb4f7db55143263cf5e31068bb59f
